@@ -1,6 +1,6 @@
-# DoodleSprout website
+# My Coloring Corner website
 
-Public pages for the DoodleSprout app, served by GitHub Pages:
+Public pages for the My Coloring Corner app, served by GitHub Pages:
 
 - `privacy.html`: Privacy Policy (App Store "Privacy Policy URL")
 - `support.html`: Support page (App Store "Support URL")
